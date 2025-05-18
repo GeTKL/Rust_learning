@@ -1,0 +1,6 @@
+[submodule "hello_world"]
+	path = hello_world
+	url = https://github.com/GeTKL/hello_world
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = https://github.com/GeTKL/hello_cargo
